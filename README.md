@@ -3,4 +3,4 @@
 代码来源于网络。
 
 -------
-![](https://github.com/GuiFoA/WatermarkView/blob/master/demo1.png)
+<img src="https://github.com/GuiFoA/WatermarkView/blob/master/demo1.png" width = "375" div align=center />
